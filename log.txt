@@ -1,0 +1,21 @@
+[Mon 04/27/2026 21:07:05.15] Script iniciado 
+[Mon 04/27/2026 21:07:05.15] Verificando privilegios de administrador... 
+[Mon 04/27/2026 21:07:05.18] Cargando configuracion... 
+[Mon 04/27/2026 21:07:05.18] Directorio cargado: D:\Games 
+[Mon 04/27/2026 21:07:05.19] Mostrando menu principal 
+[Mon 04/27/2026 21:07:08.13] Usuario selecciono opcion: 2 
+[Mon 04/27/2026 21:07:08.13] Usuario eligio Revertir cambios 
+[Mon 04/27/2026 21:07:08.14] Entrando en modo Revertir Cambios 
+[Mon 04/27/2026 21:07:08.16] Deshabilitando Test Mode 
+[Mon 04/27/2026 21:07:08.16] Ejecutando comando bcdedit directamente 
+[Mon 04/27/2026 21:07:08.18] Comando bcdedit finalizado 
+[Mon 04/27/2026 21:07:08.18] Test Mode deshabilitado correctamente 
+[Mon 04/27/2026 21:07:08.19] Preparando ejecucion de VBS.cmd principal 
+[Mon 04/27/2026 21:07:08.19] Directorio cambiado a: C:\Users\FacuS\OneDrive\Escritorio\Sora\Proyect\HypervisorGames 
+[Mon 04/27/2026 21:07:08.20] VBS.cmd principal encontrado 
+[Mon 04/27/2026 21:07:08.20] Creando script VBScript para enviar tecla 3 
+[Mon 04/27/2026 21:07:08.20] Script VBScript creado 
+[Mon 04/27/2026 21:07:08.20] Iniciando VBS.cmd principal 
+[Mon 04/27/2026 21:07:08.20] VBS.cmd principal finalizo con codigo: !errorlevel! 
+[Mon 04/27/2026 21:07:08.20] Script VBScript eliminado 
+[Mon 04/27/2026 21:07:08.20] Preparando reinicio de PC 
